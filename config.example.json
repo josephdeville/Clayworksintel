@@ -1,0 +1,22 @@
+{
+  "webflow": {
+    "api_token": "YOUR_WEBFLOW_API_TOKEN_HERE",
+    "collection_id": "YOUR_COLLECTION_ID_HERE",
+    "site_id": "YOUR_SITE_ID_HERE"
+  },
+  "upload_settings": {
+    "auto_publish": false,
+    "default_author": "Your Name",
+    "default_category": "Blog",
+    "featured_image_url": null
+  },
+  "field_mappings": {
+    "title": "name",
+    "body": "post-body",
+    "excerpt": "post-summary",
+    "author": "author-name",
+    "category": "category",
+    "featured_image": "main-image",
+    "tags": "tags"
+  }
+}
