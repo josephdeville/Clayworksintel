@@ -1,0 +1,3 @@
+[submodule "claycraft-services"]
+	path = claycraft-services
+	url = https://github.com/josephdeville/claycraft-services.git
